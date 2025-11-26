@@ -1,0 +1,7 @@
+{
+  "name": "Bangladesh Agricultural Disease Classifier",
+  "description": "AI-powered tool for Bangladeshi farmers and students to detect crop diseases from leaf images.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
